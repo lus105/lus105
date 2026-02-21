@@ -1,5 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm Lukas
 
+- 🧠 Machine learning engineer focused on computer vision
+- ⚙️ Interested in DevOps, MLOps & data engineering
+- ✍️ I write about my work at [lukaszabulis.com](https://lukaszabulis.com/)
 <!--
 **lus105/lus105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
